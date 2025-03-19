@@ -7,11 +7,11 @@ Em construção
 
 | Linguagens  | MVC |
 | ------------- |:-------------:|
-| [HTML]  | Modelo     |
-| [CSS]     | Visão |
-| [JS]     | Controle |
-| [VsCode]     | IDE (Ambiente integrado de desenvolvimento) |
-| [Git]     | Ferramenta colaborativa de versionamento |
+| HTML | Modelo     |
+| CSS    | Visão |
+| JS    | Controle |
+| VsCode    | IDE (Ambiente integrado de desenvolvimento) |
+| Git    | Ferramenta colaborativa de versionamento |
 
 ## Para testar
 
